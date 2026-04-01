@@ -17,3 +17,6 @@ Diferente de uma fila, onde focamos no início e no fim, na pilha toda a ativida
 
 ### 2. Navegação e Busca
 Embora a pilha seja feita para acessar apenas o topo, esta implementação demonstra como realizar buscas transversais para encontrar informações específicas sem desempilhar os elementos.
+
+---
+*Implementação desenvolvida como parte dos estudos práticos de Estruturas de Dados I.*
