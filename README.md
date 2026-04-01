@@ -14,7 +14,7 @@ O projeto está estruturado em módulos independentes, facilitando a navegação
 * **[`stacks`](./stacks/)**: Pilhas dinâmicas com interface visual em console e rotinas de validação de dados.
 * **[`trees`](./trees/)**: Árvore Binária de Busca (BST) para gerenciamento hierárquico de dados.
 
-## 💡 Conceitos Explorados no IFC
+## 💡 Conceitos Explorados
 
 Durante o desenvolvimento, foram aplicados conceitos fundamentais da Ciência da Computação:
 
