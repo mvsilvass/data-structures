@@ -21,6 +21,6 @@ Durante o desenvolvimento, foram aplicados conceitos fundamentais da Ciência da
 * **Gerenciamento de Memória:** Uso rigoroso de `malloc`, `free` e análise de *memory leaks*.
 * **Ponteiros e Referências:** Manipulação direta de endereços, encadeamento de nós (`nodes`) e estruturas autorreferenciadas.
 * **Recursividade:** Implementação de algoritmos recursivos para percursos e operações em árvores.
-* **Análise de Complexidade:** Avaliação de performance utilizando a Notação Big O ($O(1)$, $O(n)$, $O(\log n)$).
+* **Análise de Complexidade:** Avaliação de performance utilizando a Notação Big O (O(1), O(n), O(log n)).
 
 ---
